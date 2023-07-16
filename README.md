@@ -8,5 +8,6 @@ Installation automatisée de Prestashop (Debian10)
 # Installation
 ```bash
 git clone https://github.com/sbeteta42/prestashop.git
+cd prestashop
 chmod +x install_prestashop.sh
 ./install_prestashop.sh

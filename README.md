@@ -3,7 +3,8 @@ Installation automatisée de Prestashop (Debian10)
 
 # Pre-requis
 - OS: Gnu/linux Debian10
-- apt install -y openssh-server git
+```bash
+apt install -y openssh-server git
 
 # Installation
 ```bash

@@ -5,7 +5,7 @@
 
 #Installation des dépendances fonctionnelles
 echo "Installation des dépendances fonctionnelles"
-apt install -y net-tools apache2 mariadb-serverphp7.3 php7.3-gd php7.3-mbstring php7.3-mysql php7.3-curl php-xml php7.3-intl php7.3-zip
+apt install -y net-tools apache2 mariadb-serverphp7.3 php7.3-gd php7.3-mbstring php7.3-mysql php7.3-curl php-xml php7.3-intl php7.3-zip php-simplexml php-zip
 
 # on relance apache et mariadb
 echo "on relance apache et mariadb"
